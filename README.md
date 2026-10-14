@@ -1,5 +1,11 @@
-# 📊 Customer Canvas
-### Where Behaviour Becomes Insight. 🧠
+<!-- Project Header -->
+<div align="center">
+  <h1>📊 Customer Canvas</h1>
+  <h2>Where Behaviour Becomes Insight. 🧠</h2>
+</div>
+
+---
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
