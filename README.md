@@ -197,28 +197,10 @@ Four SQL analyses were developed:
 
 Four visualizations were added to the Jupyter Notebook.
 
-1. **Monthly Revenue Trend**
-2. **Customer Segment Distribution**
-3. **Cohort Retention Heatmap**
-4. **Top 10 Products by Revenue**
-
-Once the screenshots have been saved in the repository, they can be displayed here:
-
-<p align="center">
-  <img width="900" alt="Monthly Revenue Trend" src="screenshots/monthly_revenue_trend.png"/>
-</p>
-
-<p align="center">
-  <img width="900" alt="Customer Segment Distribution" src="screenshots/segment_distribution.png"/>
-</p>
-
-<p align="center">
-  <img width="900" alt="Cohort Retention Heatmap" src="screenshots/cohort_heatmap.png"/>
-</p>
-
-<p align="center">
-  <img width="900" alt="Top 10 Products by Revenue" src="screenshots/top_products.png"/>
-</p>
+ ![](1.png)
+ ![](2.png)
+ ![](3.png)
+ ![](4.png)
 
 ## 🛠️ Technology Stack
 
@@ -251,7 +233,6 @@ customer-canvas/
 └── README.md
 ```
 
-*Adjust the paths to match your actual repository. The notebook and dataset are currently in your local `data` folder, so move them or update this structure before publishing.*
 
 ## ⚙️ Installation and Usage
 
@@ -283,7 +264,7 @@ Open `customer_analysis.ipynb` and execute the cells in order.
 - Import the cleaned CSV file.
 - Execute the queries in `sql/customer_analysis.sql`.
 
-The CSV import and PostgreSQL database setup were performed locally. Update the setup instructions if your final repository uses a different workflow.
+
 
 ## 📚 Dataset Source
 
@@ -337,7 +318,7 @@ It demonstrates a reproducible workflow for cleaning retail transactions, unders
 - Churn prediction
 - Interactive BI dashboard
 
-These are future enhancements, not completed project features.
+
 
 ## 👩‍💻 Developer
 
