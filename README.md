@@ -290,7 +290,7 @@ Source: https://archive.ics.uci.edu/dataset/352/online+retail
 
 These are recommendations derived from the analysis; the proposed campaigns have not been experimentally tested in this project.
 
-🚀 Introducing Customer Canvas 2.0 — From Customer Analytics to an Interactive Business Intelligence Dashboard!
+## 🚀 Introducing Customer Canvas 2.0 — From Customer Analytics to an Interactive Business Intelligence Dashboard!
 
 A project that started with customer analysis has now evolved into something much more interactive. ✨
 
@@ -356,8 +356,6 @@ And honestly? Seeing all those insights come together in a sleek, dark dashboard
 This is another step in my journey of building practical, insight-driven data applications — not just analyzing data, but making it easier for people to USE it.
 
 Version 2.0 is here. More insights, more interactivity, better presentation. 🚀
-
-#CustomerAnalytics #DataAnalytics #Python #Streamlit #BusinessIntelligence #DataVisualization #PortfolioProject #LearningByBuilding.
 
 ## DASHBOARD 2.0 VIEW: 
 ---
