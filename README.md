@@ -290,6 +290,88 @@ Source: https://archive.ics.uci.edu/dataset/352/online+retail
 
 These are recommendations derived from the analysis; the proposed campaigns have not been experimentally tested in this project.
 
+🚀 Introducing Customer Canvas 2.0 — From Customer Analytics to an Interactive Business Intelligence Dashboard!
+
+A project that started with customer analysis has now evolved into something much more interactive. ✨
+
+Meet Customer Canvas 2.0 — a one-page, interactive analytics workspace built to turn retail transaction data into meaningful business insights.
+
+📊 What's new in Version 2.0?
+
+🎨 A Modern, Dark-Themed Dashboard
+A polished UI, clean layouts, intuitive sections, and interactive visualizations — because data analysis should be powerful AND beautiful.
+
+💰 01. Executive Overview
+• Total revenue and customer KPIs
+• Monthly revenue trends
+• Top 10 countries by revenue
+
+📈 02. Revenue Analytics
+• Average invoice value
+• Average daily revenue
+• Revenue by weekday
+• Invoice value distribution
+
+👥 03. Customer Segmentation — RFM Analysis
+• Recency, Frequency, and Monetary analysis
+• Customer segments including Champions, Loyal Customers, Potential Loyalists, At Risk, and Hibernating
+• Segment distribution and customer-level insights
+• Downloadable RFM analysis
+
+🔄 04. Cohort Retention Analysis
+• Track customer retention across monthly cohorts
+• Interactive retention heatmap
+• Explore retention data through downloadable tables
+
+🛍️ 05. Product Intelligence
+• Top 10 products by revenue
+• Product-level performance analysis
+• Revenue rankings with downloadable results
+
+🔎 06. Data Explorer
+• Searchable transaction-level data
+• Dataset quality overview
+• Missing-value checks and data-type inspection
+• Exportable data for further analysis
+
+📦 THE DATASET BEHIND THE DASHBOARD
+
+Built using the UCI Online Retail dataset, the cleaned dataset contains:
+
+• 392,692 transaction records
+• 9 analytical columns
+• 0 missing values reported after cleaning
+
+🛠️ Tech Stack:
+Python | Pandas | Streamlit | Plotly | Jupyter Notebook | SQL
+
+💡 What I learned:
+
+Building an analysis in a notebook is one thing. Turning that analysis into an interactive application — where users can explore trends, filter data, inspect customer segments, and download results — is a whole different experience.
+
+Customer Canvas 2.0 brings together data cleaning, exploratory data analysis, revenue analytics, RFM segmentation, cohort retention, and product intelligence in one cohesive workspace.
+
+And honestly? Seeing all those insights come together in a sleek, dark dashboard makes the upgrade even more satisfying. hehe 😭🖤
+
+This is another step in my journey of building practical, insight-driven data applications — not just analyzing data, but making it easier for people to USE it.
+
+Version 2.0 is here. More insights, more interactivity, better presentation. 🚀
+
+#CustomerAnalytics #DataAnalytics #Python #Streamlit #BusinessIntelligence #DataVisualization #PortfolioProject #LearningByBuilding.
+
+## DASHBOARD 2.0 VIEW: 
+---
+![](a.png)
+![](b.png)
+![](c.png)
+![](d.png)
+![](e.png)
+![](f.png)
+![](g.png)
+![](h.png)
+![](i.png)
+    
+---
 ## 🌟 Why Customer Canvas?
 
 Customer Canvas goes beyond basic sales reporting by combining customer-level behavioural analysis with SQL-based data exploration.
